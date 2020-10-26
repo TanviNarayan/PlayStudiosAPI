@@ -1,0 +1,53 @@
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\obj\Debug\netcoreapp2.1\PlayStudios.csproj.CoreCompileInputs.cache
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\obj\Debug\netcoreapp2.1\PlayStudios.RazorAssemblyInfo.cache
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\obj\Debug\netcoreapp2.1\PlayStudios.RazorAssemblyInfo.cs
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\obj\Debug\netcoreapp2.1\PlayStudios.AssemblyInfoInputs.cache
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\obj\Debug\netcoreapp2.1\PlayStudios.AssemblyInfo.cs
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\bin\Debug\netcoreapp2.1\appsettings.Development.json
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\bin\Debug\netcoreapp2.1\appsettings.json
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\bin\Debug\netcoreapp2.1\PlayStudios.deps.json
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\bin\Debug\netcoreapp2.1\PlayStudios.runtimeconfig.json
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\bin\Debug\netcoreapp2.1\PlayStudios.runtimeconfig.dev.json
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\bin\Debug\netcoreapp2.1\PlayStudios.dll
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\bin\Debug\netcoreapp2.1\PlayStudios.pdb
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\obj\Debug\netcoreapp2.1\PlayStudios.RazorTargetAssemblyInfo.cache
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\obj\Debug\netcoreapp2.1\PlayStudios.dll
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\obj\Debug\netcoreapp2.1\PlayStudios.pdb
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\WebApiMongoDB-master\obj\Debug\netcoreapp2.1\PlayStudios.genruntimeconfig.cache
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\bin\Debug\netcoreapp2.1\appsettings.Development.json
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\bin\Debug\netcoreapp2.1\appsettings.json
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\bin\Debug\netcoreapp2.1\PlayStudios.deps.json
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\bin\Debug\netcoreapp2.1\PlayStudios.runtimeconfig.json
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\bin\Debug\netcoreapp2.1\PlayStudios.runtimeconfig.dev.json
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\bin\Debug\netcoreapp2.1\PlayStudios.dll
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\bin\Debug\netcoreapp2.1\PlayStudios.pdb
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.csproj.CoreCompileInputs.cache
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.RazorAssemblyInfo.cache
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.RazorAssemblyInfo.cs
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.AssemblyInfoInputs.cache
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.AssemblyInfo.cs
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.RazorTargetAssemblyInfo.cache
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.dll
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.pdb
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.genruntimeconfig.cache
+J:\Cluster Softech\Upwork\Naren Gadde Goti UP\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.csprojAssemblyReference.cache
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\bin\Debug\netcoreapp2.1\PlayStudios.deps.json
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\bin\Debug\netcoreapp2.1\PlayStudios.runtimeconfig.json
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\bin\Debug\netcoreapp2.1\PlayStudios.runtimeconfig.dev.json
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\bin\Debug\netcoreapp2.1\PlayStudios.dll
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\bin\Debug\netcoreapp2.1\PlayStudios.pdb
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.csprojAssemblyReference.cache
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.AssemblyInfoInputs.cache
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.AssemblyInfo.cs
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.csproj.CoreCompileInputs.cache
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.RazorAssemblyInfo.cache
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.RazorAssemblyInfo.cs
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.RazorTargetAssemblyInfo.cache
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.dll
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.pdb
+C:\Users\tanvi\Downloads\PlayStudios_26_Oct_2020\PlayStudios\obj\Debug\netcoreapp2.1\PlayStudios.genruntimeconfig.cache
